@@ -4,3 +4,7 @@ About JavaScript Basics
 GitHub Preview
 <!-- https://amazon-dev12.github.io/JavaScript-Basics/ -->
 
+Passed Validation
+Document checking completed. No errors or warnings to show.
+Showing results for https://amazon-dev12.github.io/JavaScript-Basics/
+https://validator.w3.org/nu/?doc=https%3A%2F%2Famazon-dev12.github.io%2FJavaScript-Basics%2F
