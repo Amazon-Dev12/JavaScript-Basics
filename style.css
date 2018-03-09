@@ -3,3 +3,16 @@
  margin: 0px;
  padding: 0px;
 }
+
+#container {
+    margin: 10px;
+}
+
+#header{
+    background-color: red;
+    color:lightgray;
+    padding: 20px;
+    border: 0px;
+    border-radius: 10px;
+    display: block;
+}
