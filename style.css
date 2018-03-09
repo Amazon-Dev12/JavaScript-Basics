@@ -7,6 +7,7 @@
 body {
     background-color: #1B335D;
     color: #C2D6EC;
+    font-size: 1em;
 }
 
 a:link{
@@ -53,11 +54,11 @@ ul {
 }
 
 .title{
-    margin-top: 10px;
+    margin: 10px 0px;
 }
 
 .bullets{
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 .bullets li{
