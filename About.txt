@@ -1,0 +1,6 @@
+About JavaScript Basics
+- This is the HTML Git Demo Project
+
+GitHub Preview
+<!-- https://amazon-dev12.github.io/JavaScript-Basics/ -->
+
