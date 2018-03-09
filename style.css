@@ -21,6 +21,10 @@ a:link{
     color: #4AB2B6;
 }
 
+.code-color{
+    color:#6A8BF9;
+}
+
 ul {
     list-style-position: inside;
     margin: 5px 0px 0 10px;
