@@ -1,0 +1,77 @@
+[33mcommit 07985ed8b0b3e8eccd89260067de614647ee56fa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 15:24:04 2018 -0600
+
+    Updated About text: Document checking completed. No errors or warnings to show.
+
+[33mcommit b88f45cd2d6f16a79b5858d4aa9031723a8fca5c[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 15:20:40 2018 -0600
+
+    Fixed Error: The font element is obsolete. Switch to <a> tag
+
+[33mcommit 386820003ecb0b2f92e0033fc437e6354b464513[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 15:08:02 2018 -0600
+
+    Fixed Error: The font element is obsolete. Use CSS instead.
+
+[33mcommit 9a0f5fac687e7705153e3b6a59212aaed11b2072[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 14:52:11 2018 -0600
+
+    Fixed Error: Element ul not allowed as child of element ul in this context. (Line 33).
+
+[33mcommit 323e2e52d1b1c6bc27b3d32a3cb0b3c388c0cacd[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 14:45:08 2018 -0600
+
+    Small Fixes, preparing for W3 Validation
+
+[33mcommit 3d5f394f1e8bdefe70edfa6b62b9a94c58934c0c[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 14:38:31 2018 -0600
+
+    Added About Info
+
+[33mcommit 16f252afcba3f1fad896ed243d2a191730dc1c24[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 14:26:54 2018 -0600
+
+    Content Fixes
+
+[33mcommit 023806a6c4ed24ec638805bd0e9217383cfe1feb[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 13:34:08 2018 -0600
+
+    Log: > - Added Main Page Content About JavaScript Basics > - Added CSS Main Page Styling
+
+[33mcommit 7e8de1f7c398bad26a46d7653717bc5e090b3d02[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 13:28:18 2018 -0600
+
+    Update log:
+
+[33mcommit 38a1d8d4252c85b87e5fff0047412fafc3c1e3ff[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 11:43:56 2018 -0600
+
+    updated styles
+
+[33mcommit 487d932bd86e2f1ffa57527f6502b98e528ba719[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 10:36:26 2018 -0600
+
+    added header style
+
+[33mcommit 2775fb93f94e525ea2ba79835f42762ba4947564[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 10:35:05 2018 -0600
+
+    Added Website Structure
+
+[33mcommit ac487d67569a3d2372b9b46b5e70479df3ae1315[m
+Author: esppablo <esppablo@amazon.com>
+Date:   Fri Mar 9 10:33:38 2018 -0600
+
+    added index and style files
