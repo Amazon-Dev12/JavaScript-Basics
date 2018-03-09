@@ -2,14 +2,19 @@
 *{
  margin: 0px;
  padding: 0px;
+ background-color: none;
 }
 
 /* CSS custom */
 
-body {
-    background-color: #1B335D;
+html {
+    background-color: #1B335D !important;
     color: #C2D6EC;
     font-size: 1em;
+}
+
+body{
+    background-color: transparent !important;
 }
 
 a:link{
@@ -18,7 +23,7 @@ a:link{
 
 ul {
     list-style-position: inside;
-    margin-left: 10px;
+    margin: 5px 0px 0 10px;
 }
 
 #container {
@@ -72,4 +77,5 @@ ul {
     background-color: #5D6673;
     padding: 20px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
